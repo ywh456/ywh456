@@ -5,15 +5,15 @@
 
 ### 自我介绍 
 
-姓名：殷威鸿
+* 姓名：殷威鸿
 
-班级：信息安全2班
+* 班级：信息安全2班
 
-学号：3119005484
+* 学号：3119005484
 
-兴趣爱好：篮球、动漫、游戏
+* 兴趣爱好：篮球、动漫、游戏
 
-Github:[https://github.com/ywh456](https://github.com/ywh456)
+* Github:[https://github.com/ywh456](https://github.com/ywh456)
 
 
 
